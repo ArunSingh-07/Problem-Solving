@@ -1,0 +1,12 @@
+# Bit Manipulation
+
+Problems and solutions related to Bit Manipulation.
+
+## Problems List
+- [ ] Single Number
+- [ ] Number of 1 Bits
+- [ ] Counting Bits
+- [ ] Reverse Bits
+- [ ] Missing Number
+- [ ] Sum of Two Integers
+- [ ] Reverse Integer

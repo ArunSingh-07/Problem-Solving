@@ -56,8 +56,8 @@ Welcome to my Data Structures and Algorithms repository! I'm systematically work
 ## 🔄 Revision Pass 1
 
 ### Week R1: Arrays & Hashing (Current)
-- [ ] Contains Duplicate
-- [ ] Valid Anagram
+- [x] [Contains Duplicate](./01-arrays-and-hashing/01-contains-duplicate/)
+- [x] [Valid Anagram](./01-arrays-and-hashing/02-valid-anagram/)
 - [ ] Two Sum
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
@@ -114,7 +114,7 @@ I solve **at least 3 problems daily** from the NeetCode 150 list (Revision/New),
 
 ## 🎯 Next Milestones
 
-- [ ] Complete Revision Pass 1: Arrays & Hashing (0/9)
+- [ ] Complete Revision Pass 1: Arrays & Hashing (2/9)
 - [x] Finish Two Pointers (5/5)
 - [x] Complete Sliding Window (6/6)
 - [ ] Finish Stack (1/7)
